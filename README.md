@@ -3,7 +3,7 @@ This is a basic flutter project. The application generates cool-sounding names, 
 
 Flutter codelab resource: https://codelabs.developers.google.com/codelabs/flutter-codelab-first#2
 
-To run the app: 
+To run the app please make sure you have flutter and Visual Studio (VS) code installed locally. 
 1. Clone the repo in your local machine. 
 2. Locate the main.dart file within the lib folder in cool_name_generator using the VS Code folder manager. 
 3. Select a device from the Device Selector area of VS code. (App primarily developed for ios.)
