@@ -12,4 +12,6 @@ To run the app please make sure you have flutter and Visual Studio (VS) code ins
 
 <p align="center">
 <img width="402" alt="Screenshot 2023-09-11 at 6 42 56 PM" src="https://github.com/AyonDebnath/coolNameGenerator/assets/83230735/beb6cf0e-7bb6-40e8-87b3-ec2cd6b3574b">
+
+<img width="404" alt="Screenshot 2023-09-11 at 6 47 16 PM" src="https://github.com/AyonDebnath/coolNameGenerator/assets/83230735/01c22752-c150-4b0e-a574-94268283568f">
 </p>
