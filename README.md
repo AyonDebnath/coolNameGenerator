@@ -9,3 +9,5 @@ To run the app:
 3. Select a device from the Device Selector area of VS code. (App primarily developed for ios.)
 4. Invoke Run > Start Debugging
 5. After the app build completes, you’ll see the starter app on your device.
+
+<img width="405" alt="Screenshot 2023-09-11 at 6 42 17 PM" src="https://github.com/AyonDebnath/coolNameGenerator/assets/83230735/7f49af6a-35e7-4cf6-8291-476288fa1767">
