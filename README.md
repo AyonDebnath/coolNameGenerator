@@ -10,4 +10,6 @@ To run the app:
 4. Invoke Run > Start Debugging
 5. After the app build completes, you’ll see the starter app on your device.
 
-<img width="405" alt="Screenshot 2023-09-11 at 6 42 17 PM" src="https://github.com/AyonDebnath/coolNameGenerator/assets/83230735/7f49af6a-35e7-4cf6-8291-476288fa1767">
+<p align="center">
+<img width="402" alt="Screenshot 2023-09-11 at 6 42 56 PM" src="https://github.com/AyonDebnath/coolNameGenerator/assets/83230735/beb6cf0e-7bb6-40e8-87b3-ec2cd6b3574b">
+</p>
